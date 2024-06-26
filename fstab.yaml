@@ -3,7 +3,4 @@ mountpoints:
     url: "https://author-p105957-e1283031.adobeaemcloud.com/ui#/aem/sites.html/content/aem-edge"
     type: "markup"
     suffix: ".html"
-  /:
-    url: "https://publish-p105957-e1283031.adobeaemcloud.com/content/aem-edge"
-    type: "markup"
-    suffix: ".html"
+
