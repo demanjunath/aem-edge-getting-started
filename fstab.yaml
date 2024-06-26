@@ -1,6 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p105957-e1283031.adobeaemcloud.com/ui#/aem/sites.html/content/aem-edge"
+    url: "https://author-p105957-e1283031.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
-
